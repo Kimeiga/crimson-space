@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Hakan\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Hakan\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Hakan\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Crimson Space.1453962443.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Hakan\Unity\Crimson Space" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="NavMeshComponents" t="Include">
+          <e p="Editor" t="Include">
+            <e p="NavMeshAssetManager.cs" t="Include" />
+            <e p="NavMeshBuilder2DEditor.cs" t="Include" />
+            <e p="NavMeshComponentsEditor.asmdef" t="Include" />
+            <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+            <e p="NavMeshLinkEditor.cs" t="Include" />
+            <e p="NavMeshModifierEditor.cs" t="Include" />
+            <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+            <e p="NavMeshSurfaceEditor.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="NavMeshBuilder2D.cs" t="Include" />
+            <e p="NavMeshComponents.asmdef" t="Include" />
+            <e p="NavMeshLink.cs" t="Include" />
+            <e p="NavMeshModifier.cs" t="Include" />
+            <e p="NavMeshModifierVolume.cs" t="Include" />
+            <e p="NavMeshSourceTag2D.cs" t="Include" />
+            <e p="NavMeshSurface.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Dungeon Generation" t="Include">
+            <e p="READ ME.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="LevelGenerator.cs" t="Include" />
+              <e p="Restarter.cs" t="Include" />
+              <e p="SlowGenerator.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Player Camera" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Bullet.cs" t="Include" />
+              <e p="CameraController.cs" t="Include" />
+              <e p="PlayerController.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="bullet_behavior.cs" t="Include" />
+          <e p="bullet_pool.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
+          <e p="CharacterController.cs" t="Include" />
+          <e p="CharacterController2D.cs" t="Include" />
+          <e p="Crosshair.cs" t="Include" />
+          <e p="gun_script.cs" t="Include" />
+          <e p="laser_beam.cs" t="Include" />
+          <e p="LevelGenerator.cs" t="Include" />
+          <e p="Parry.cs" t="Include" />
+          <e p="PlatformController.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+          <e p="Restarter.cs" t="Include" />
+          <e p="SpriteMovement.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Crimson Space.sln" t="IncludeFlat" />
+      <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsEditor.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
